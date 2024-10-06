@@ -1,0 +1,41 @@
+.productss {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.product {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #fff; /* White background */
+  transition: transform 0.3s ease; /* Smooth transition */
+}
+
+.product:hover {
+  transform: translateY(-5px); /* Move product up slightly on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow on hover */
+}
+
+.click-here {
+  display: flex;
+  justify-content: flex-end;
+  flex-grow: 1;
+  margin-right: 0px; /* Add margin-right */
+  font-size: 15px;
+  font-weight: bolder;
+  color: red;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

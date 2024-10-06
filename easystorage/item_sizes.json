@@ -1,0 +1,602 @@
+[
+ {
+  "ITEM": "1-Door Wardrobe ",
+  "MEASUREMENTS": "W  60cm D  41cm H  200cm",
+  "WEIGHT": "0.49m3",
+  "VOLUME": "47.3 kgs"
+ },
+ {
+  "ITEM": "2 seat sofa ",
+  "MEASUREMENTS": "W  145cm D  85cm H  82cm",
+  "WEIGHT": "1.02m3",
+  "VOLUME": "45.0 kgs"
+ },
+ {
+  "ITEM": "2-door Wardrobe ",
+  "MEASUREMENTS": "W  61cm D  84cm H  200cm",
+  "WEIGHT": "1.02m3",
+  "VOLUME": "98.4 kgs"
+ },
+ {
+  "ITEM": "3 seat sofa ",
+  "MEASUREMENTS": "W  82cm D  210cm H  76cm",
+  "WEIGHT": "1.29m3",
+  "VOLUME": "68.0 kgs"
+ },
+ {
+  "ITEM": "Air Purifier ",
+  "MEASUREMENTS": "W  13cm D  25cm H  30cm",
+  "WEIGHT": "0.01m3",
+  "VOLUME": "1.0 kg"
+ },
+ {
+  "ITEM": "American Fridge\/Freezer ",
+  "MEASUREMENTS": "W  118cm D  65cm H  180cm",
+  "WEIGHT": "1.38m3",
+  "VOLUME": "133.1 kgs"
+ },
+ {
+  "ITEM": "Armchair ",
+  "MEASUREMENTS": "W  74cm D  82cm H  80cm",
+  "WEIGHT": "0.48m3",
+  "VOLUME": "46.3 kgs"
+ },
+ {
+  "ITEM": "BBQ ",
+  "MEASUREMENTS": "W  50cm D  102cm H  100cm",
+  "WEIGHT": "0.51m3",
+  "VOLUME": "10.0 kgs"
+ },
+ {
+  "ITEM": "Bed Frame (generic)",
+  "MEASUREMENTS": "W  210cm D  169cm H  33cm",
+  "WEIGHT": "1.17m3 ",
+  "VOLUME": " 28.0 kgs"
+ },
+ {
+  "ITEM": "Bedside table ",
+  "MEASUREMENTS": "W  47cm D  47cm H  50cm",
+  "WEIGHT": "0.11m3",
+  "VOLUME": "10.6 kgs"
+ },
+ {
+  "ITEM": "Bench ",
+  "MEASUREMENTS": "W  100cm D  33cm H  45cm",
+  "WEIGHT": "0.15m3",
+  "VOLUME": "14.0 kgs"
+ },
+ {
+  "ITEM": "Bicycle ",
+  "MEASUREMENTS": "W  59cm D  214cm H  100cm",
+  "WEIGHT": "1.26m3",
+  "VOLUME": "12.0 kgs"
+ },
+ {
+  "ITEM": "Boardroom Table ",
+  "MEASUREMENTS": "W  175cm D  132cm H  100cm",
+  "WEIGHT": "2.31m3",
+  "VOLUME": "59.0 kgs"
+ },
+ {
+  "ITEM": "Bunk Bed ",
+  "MEASUREMENTS": "W  83cm D  186cm H  145cm",
+  "WEIGHT": "2.24m3",
+  "VOLUME": "60.0 kgs"
+ },
+ {
+  "ITEM": "Cabinet (Pantry) ",
+  "MEASUREMENTS": "W  51cm D  97cm H  195cm",
+  "WEIGHT": "0.96m3",
+  "VOLUME": "92.6 kgs"
+ },
+ {
+  "ITEM": "Chair ",
+  "MEASUREMENTS": "W  53cm D  40cm H  108cm",
+  "WEIGHT": "0.23m3",
+  "VOLUME": "5.0 kgs"
+ },
+ {
+  "ITEM": "Chaise Lounge ",
+  "MEASUREMENTS": "W  138cm D  91cm H  90cm",
+  "WEIGHT": "1.13m3",
+  "VOLUME": "47.0 kgs"
+ },
+ {
+  "ITEM": "Chest Freezer ",
+  "MEASUREMENTS": "W  158cm D  84cm H  96cm",
+  "WEIGHT": "1.27m3",
+  "VOLUME": "43.0 kgs"
+ },
+ {
+  "ITEM": "Chest of Draws ",
+  "MEASUREMENTS": "W  48cm D  143cm H  92cm",
+  "WEIGHT": "0.63m3",
+  "VOLUME": "61.2 kgs"
+ },
+ {
+  "ITEM": "Christmas Tree  ",
+  "MEASUREMENTS": "W  70cm D  70cm H  140cm",
+  "WEIGHT": "0.69m3",
+  "VOLUME": "8.0 kgs"
+ },
+ {
+  "ITEM": "Coffee table ",
+  "MEASUREMENTS": "W  63cm D  99cm H  41cm",
+  "WEIGHT": "0.25m3",
+  "VOLUME": "17.0 kgs"
+ },
+ {
+  "ITEM": "Cooker ",
+  "MEASUREMENTS": "W  80cm D  72cm H  100cm",
+  "WEIGHT": "0.57m3",
+  "VOLUME": "70.0 kgs"
+ },
+ {
+  "ITEM": "Corner Desk 1.73m3",
+  "MEASUREMENTS": "W  152cm D  152cm H  75cm",
+  "WEIGHT": "1.73m3",
+  "VOLUME": "166.8 kgs"
+ },
+ {
+  "ITEM": "Cot ",
+  "MEASUREMENTS": "W  133cm D  71cm H  90cm",
+  "WEIGHT": "0.85m3",
+  "VOLUME": "16.0 kgs"
+ },
+ {
+  "ITEM": "Desk ",
+  "MEASUREMENTS": "W  63cm D  125cm H  80cm",
+  "WEIGHT": "0.63m3",
+  "VOLUME": "37.0 kgs"
+ },
+ {
+  "ITEM": "Desk Lamp ",
+  "MEASUREMENTS": "W  27cm D  27cm H  55cm",
+  "WEIGHT": "0.04m3",
+  "VOLUME": "1.0 kg"
+ },
+ {
+  "ITEM": "Dining table (4-6) ",
+  "MEASUREMENTS": "W  163cm D  81cm H  62cm",
+  "WEIGHT": "0.82m3",
+  "VOLUME": "35.0 kgs"
+ },
+ {
+  "ITEM": "Dining table (8+) ",
+  "MEASUREMENTS": "W  223cm D  101cm H  66cm",
+  "WEIGHT": "1.48m3",
+  "VOLUME": "47.0 kgs"
+ },
+ {
+  "ITEM": "Dishwasher ",
+  "MEASUREMENTS": "W  54cm D  55cm H  80cm",
+  "WEIGHT": "0.24m3",
+  "VOLUME": "23.1 kgs"
+ },
+ {
+  "ITEM": "Double Bed (Divan) + Mattress",
+  "MEASUREMENTS": "W  217cm D  171cm H  65cm",
+  "WEIGHT": "57.2 kgs",
+  "VOLUME": " 2.41m3 "
+ },
+ {
+  "ITEM": "Double Mattress",
+  "MEASUREMENTS": "W  190cm D  135cm H  20cm",
+  "WEIGHT": "0.51m3 ",
+  "VOLUME": "22.5 kgs"
+ },
+ {
+  "ITEM": "Dresser ",
+  "MEASUREMENTS": "W  26cm D  68cm H  140cm",
+  "WEIGHT": "0.25m3",
+  "VOLUME": "32.0 kgs"
+ },
+ {
+  "ITEM": "Dryer ",
+  "MEASUREMENTS": "W  54cm D  55cm H  80cm",
+  "WEIGHT": "0.24m3",
+  "VOLUME": "31.0 kgs"
+ },
+ {
+  "ITEM": "Exercise Bike ",
+  "MEASUREMENTS": "W  96cm D  97cm H  172cm",
+  "WEIGHT": "1.61m3",
+  "VOLUME": "26.4 kgs"
+ },
+ {
+  "ITEM": "Fan  ",
+  "MEASUREMENTS": "W  38cm D  38cm H  110cm",
+  "WEIGHT": "0.16m3",
+  "VOLUME": "15.0 kgs"
+ },
+ {
+  "ITEM": "Filing Cabinet ",
+  "MEASUREMENTS": "W  59cm D  69cm H  132cm",
+  "WEIGHT": "0.54m3",
+  "VOLUME": "52.1 kgs"
+ },
+ {
+  "ITEM": "Floor Lamp ",
+  "MEASUREMENTS": "W  48cm D  48cm H  155cm",
+  "WEIGHT": "0.35m3",
+  "VOLUME": "2.0 kgs"
+ },
+ {
+  "ITEM": "Flower Bench ",
+  "MEASUREMENTS": "W  107cm D  38cm H  75cm",
+  "WEIGHT": "0.30m3",
+  "VOLUME": "16.0 kgs"
+ },
+ {
+  "ITEM": "Foot Stool ",
+  "MEASUREMENTS": "W  22cm D  22cm H  45cm",
+  "WEIGHT": "0.02m3",
+  "VOLUME": "2.0 kgs"
+ },
+ {
+  "ITEM": "Fridge ",
+  "MEASUREMENTS": "W  71cm D  71cm H  170cm",
+  "WEIGHT": "0.85m3",
+  "VOLUME": "44.0 kgs"
+ },
+ {
+  "ITEM": "Garage Shelving  ",
+  "MEASUREMENTS": "W  28cm D  153cm H  170cm",
+  "WEIGHT": "0.73m3",
+  "VOLUME": "70.4 kgs"
+ },
+ {
+  "ITEM": "Garden Seat ",
+  "MEASUREMENTS": "W  32cm D  31cm H  49cm",
+  "WEIGHT": "0.05m3",
+  "VOLUME": "4.0 kgs"
+ },
+ {
+  "ITEM": "Garden Table - 2 Seat ",
+  "MEASUREMENTS": "W  79cm D  79cm H  71cm",
+  "WEIGHT": "0.44m3",
+  "VOLUME": "8.0 kgs"
+ },
+ {
+  "ITEM": "Garden Table - 6 Seat ",
+  "MEASUREMENTS": "W  79cm D  159cm H  71cm",
+  "WEIGHT": "0.89m3",
+  "VOLUME": "12.0 kgs"
+ },
+ {
+  "ITEM": "Garden Umbrella ",
+  "MEASUREMENTS": "W  41cm D  41cm H  180cm",
+  "WEIGHT": "0.30m3",
+  "VOLUME": "28.9 kgs"
+ },
+ {
+  "ITEM": "Golf Bag  ",
+  "MEASUREMENTS": "W  24cm D  24cm H  113cm",
+  "WEIGHT": "0.07m3",
+  "VOLUME": "6.8 kgs"
+ },
+ {
+  "ITEM": "Hallway Table  ",
+  "MEASUREMENTS": "W  36cm D  80cm H  112cm",
+  "WEIGHT": "0.32m3",
+  "VOLUME": "30.9 kgs"
+ },
+ {
+  "ITEM": "Ice Box ",
+  "MEASUREMENTS": "W  66cm D  50cm H  45cm",
+  "WEIGHT": "0.15m3",
+  "VOLUME": "14.5 kgs"
+ },
+ {
+  "ITEM": "Ikea Kalax Unit  ",
+  "MEASUREMENTS": "W  51cm D  74cm H  169cm",
+  "WEIGHT": "0.63m3",
+  "VOLUME": "60.8 kgs"
+ },
+ {
+  "ITEM": "L - Shaped Sofa (5 Seat) ",
+  "MEASUREMENTS": "W  118cm D  225cm H  124cm",
+  "WEIGHT": "3.29m3",
+  "VOLUME": "80.2 kgs"
+ },
+ {
+  "ITEM": "Ladder ",
+  "MEASUREMENTS": "W  51cm D  37cm H  180cm",
+  "WEIGHT": "0.34m3",
+  "VOLUME": "32.8 kgs"
+ },
+ {
+  "ITEM": "Large Bookcase ",
+  "MEASUREMENTS": "W  28cm D  80cm H  202cm",
+  "WEIGHT": "0.45m3",
+  "VOLUME": "43.4 kgs"
+ },
+ {
+  "ITEM": "Large box ",
+  "MEASUREMENTS": "W  39cm D  44cm H  60cm",
+  "WEIGHT": "0.10m3",
+  "VOLUME": "7.0 kgs"
+ },
+ {
+  "ITEM": "Large Tool Box ",
+  "MEASUREMENTS": "W  98cm D  55cm H  90cm",
+  "WEIGHT": "0.49m3",
+  "VOLUME": "25.7 kgs"
+ },
+ {
+  "ITEM": "Large TV ",
+  "MEASUREMENTS": "W  15cm D  143cm H  80cm",
+  "WEIGHT": "0.17m3",
+  "VOLUME": "4.5 kgs"
+ },
+ {
+  "ITEM": "Laundry Cupboard ",
+  "MEASUREMENTS": "W  43cm D  59cm H  90cm",
+  "WEIGHT": "0.23m3",
+  "VOLUME": "22.2 kgs"
+ },
+ {
+  "ITEM": "Lawnmower ",
+  "MEASUREMENTS": "W  67cm D  129cm H  98cm",
+  "WEIGHT": "0.85m3",
+  "VOLUME": "16.6 kgs"
+ },
+ {
+  "ITEM": "Medium box ",
+  "MEASUREMENTS": "W  44cm D  38cm H  30cm",
+  "WEIGHT": "0.05m3",
+  "VOLUME": "4.8 kgs"
+ },
+ {
+  "ITEM": "Metal Shelving Boxes ",
+  "MEASUREMENTS": "W  45cm D  122cm H  200cm",
+  "WEIGHT": "1.10m3",
+  "VOLUME": "53.2 kgs"
+ },
+ {
+  "ITEM": "Microwave ",
+  "MEASUREMENTS": "W  39cm D  51cm H  30cm",
+  "WEIGHT": "0.06m3",
+  "VOLUME": "5.8 kgs"
+ },
+ {
+  "ITEM": "Mirror ",
+  "MEASUREMENTS": "W  3cm D  141cm H  170cm",
+  "WEIGHT": "0.07m3",
+  "VOLUME": "6.8 kgs"
+ },
+ {
+  "ITEM": "Mobile Pedestal ",
+  "MEASUREMENTS": "W  50cm D  42cm H  61cm",
+  "WEIGHT": "0.13m3",
+  "VOLUME": "12.5 kgs"
+ },
+ {
+  "ITEM": "Motorbike ",
+  "MEASUREMENTS": "W  200cm D  90cm H  120cm",
+  "WEIGHT": "2.16m3",
+  "VOLUME": "77.7 kgs"
+ },
+ {
+  "ITEM": "Nest of Tables ",
+  "MEASUREMENTS": "W  84cm D  64cm H  50cm",
+  "WEIGHT": "0.27m3",
+  "VOLUME": "26.0 kgs"
+ },
+ {
+  "ITEM": "Office Chair ",
+  "MEASUREMENTS": "W  81cm D  72cm H  151cm",
+  "WEIGHT": "0.88m3",
+  "VOLUME": "17.8 kgs"
+ },
+ {
+  "ITEM": "Office Desk ",
+  "MEASUREMENTS": "W  63cm D  125cm H  80cm",
+  "WEIGHT": "0.63m3",
+  "VOLUME": "32.2 kgs"
+ },
+ {
+  "ITEM": "Paint ",
+  "MEASUREMENTS": "W  16cm D  15cm H  35cm",
+  "WEIGHT": "0.01m3",
+  "VOLUME": "2.4 kgs"
+ },
+ {
+  "ITEM": "Painting ",
+  "MEASUREMENTS": "W  9cm D  96cm H  102cm",
+  "WEIGHT": "0.08m3",
+  "VOLUME": "7.7 kgs"
+ },
+ {
+  "ITEM": "Pallet ",
+  "MEASUREMENTS": "W  120cm D  120cm H  20cm",
+  "WEIGHT": "0.29m3",
+  "VOLUME": "12.0 kgs"
+ },
+ {
+  "ITEM": "Photocopier ",
+  "MEASUREMENTS": "W  54cm D  55cm H  80cm",
+  "WEIGHT": "0.24m3",
+  "VOLUME": "11.5 kgs"
+ },
+ {
+  "ITEM": "Pool Table  ",
+  "MEASUREMENTS": "W  204cm D  137cm H  75cm",
+  "WEIGHT": "2.10m3",
+  "VOLUME": "202.5 kgs"
+ },
+ {
+  "ITEM": "Port-A-Robe ",
+  "MEASUREMENTS": "W  60cm D  60cm H  89cm",
+  "WEIGHT": "0.32m3 ",
+  "VOLUME": "9.0 kgs"
+ },
+ {
+  "ITEM": "Queen \/ King Bed (Divan) + Mattress",
+  "MEASUREMENTS": "W  230cm D  164cm H  60cm",
+  "WEIGHT": "2.26m3 ",
+  "VOLUME": "62.0 kgs"
+ },
+ {
+  "ITEM": "Queen\/King mattress ",
+  "MEASUREMENTS": "W  202cm D  158cm H  35cm",
+  "WEIGHT": "1.11m3",
+  "VOLUME": " 23.5 kgs"
+ },
+ {
+  "ITEM": "Room Heater ",
+  "MEASUREMENTS": "W  21cm D  41cm H  60cm",
+  "WEIGHT": "0.05m3",
+  "VOLUME": "5.0 kgs"
+ },
+ {
+  "ITEM": "Round Table ",
+  "MEASUREMENTS": "W  77cm D  77cm H  75cm",
+  "WEIGHT": "0.44m3",
+  "VOLUME": "42.4 kgs"
+ },
+ {
+  "ITEM": "Rug ",
+  "MEASUREMENTS": "W  22cm D  22cm H  90cm",
+  "WEIGHT": "0.04m3",
+  "VOLUME": "3.9 kgs"
+ },
+ {
+  "ITEM": "Side Table ",
+  "MEASUREMENTS": "W  35cm D  59cm H  65cm",
+  "WEIGHT": "0.13m3",
+  "VOLUME": "12.0 kgs"
+ },
+ {
+  "ITEM": "Side-Board ",
+  "MEASUREMENTS": "W  59cm D  162cm H  68cm",
+  "WEIGHT": "0.65m3",
+  "VOLUME": "52.0 kgs"
+ },
+ {
+  "ITEM": "Single Bed (Divan) + Mattress",
+  "MEASUREMENTS": "W  184cm D  95cm H  56cm",
+  "WEIGHT": "30.1 kgs",
+  "VOLUME": "0.98m3 "
+ },
+ {
+  "ITEM": "Single mattress",
+  "MEASUREMENTS": "W  175cm D  91cm H  35cm",
+  "WEIGHT": "0.56m3",
+  "VOLUME": "54.0 kgs"
+ },
+ {
+  "ITEM": "Ski ",
+  "MEASUREMENTS": "W  2cm D  28cm H  170cm",
+  "WEIGHT": "0.01m3",
+  "VOLUME": "6.8 kgs"
+ },
+ {
+  "ITEM": "Small Bookcase ",
+  "MEASUREMENTS": "W  46cm D  69cm H  124cm",
+  "WEIGHT": "0.39m3",
+  "VOLUME": "37.6 kgs"
+ },
+ {
+  "ITEM": "Small box ",
+  "MEASUREMENTS": "W  30cm D  39cm H  26cm",
+  "WEIGHT": "0.03m3",
+  "VOLUME": "2.9 kgs"
+ },
+ {
+  "ITEM": "Small table ",
+  "MEASUREMENTS": "W  42cm D  61cm H  50cm",
+  "WEIGHT": "0.13m3",
+  "VOLUME": "12.5 kgs"
+ },
+ {
+  "ITEM": "Snow Board ",
+  "MEASUREMENTS": "W  3cm D  34cm H  260cm",
+  "WEIGHT": "0.03m3",
+  "VOLUME": "4.3 kgs"
+ },
+ {
+  "ITEM": "Stool ",
+  "MEASUREMENTS": "W  29cm D  29cm H  79cm",
+  "WEIGHT": "0.07m3",
+  "VOLUME": "3.6 kgs"
+ },
+ {
+  "ITEM": "Storage Tote ",
+  "MEASUREMENTS": "W  66cm D  50cm H  40cm",
+  "WEIGHT": " 0.13m3",
+  "VOLUME": "12.0 kgs"
+ },
+ {
+  "ITEM": "Surfboard ",
+  "MEASUREMENTS": "W  37cm D  2cm H  149cm",
+  "WEIGHT": "0.01m3",
+  "VOLUME": "6.8 kgs"
+ },
+ {
+  "ITEM": "Tall Boy ",
+  "MEASUREMENTS": "W  53cm D  89cm H  120cm",
+  "WEIGHT": "0.57m3",
+  "VOLUME": "40.2 kgs"
+ },
+ {
+  "ITEM": "Trampoline (Dismantled) ",
+  "MEASUREMENTS": "W  153cm D  195cm H  30cm",
+  "WEIGHT": "0.90m3",
+  "VOLUME": "86.8 kgs"
+ },
+ {
+  "ITEM": "Treadmill  ",
+  "MEASUREMENTS": "W  228cm D  111cm H  54cm",
+  "WEIGHT": "1.36m3",
+  "VOLUME": "55.4 kgs"
+ },
+ {
+  "ITEM": "TV ",
+  "MEASUREMENTS": "W  88cm D  12cm H  70cm",
+  "WEIGHT": "0.07m3",
+  "VOLUME": "6.2 kgs"
+ },
+ {
+  "ITEM": "TV Unit ",
+  "MEASUREMENTS": "W  150cm D  51cm H  49cm",
+  "WEIGHT": "0.38m3",
+  "VOLUME": "18.0 kgs"
+ },
+ {
+  "ITEM": "Under Counter Fridge ",
+  "MEASUREMENTS": "W  62cm D  69cm H  115cm",
+  "WEIGHT": "0.49m3",
+  "VOLUME": "27.0 kgs"
+ },
+ {
+  "ITEM": "Vacuum Cleaner  ",
+  "MEASUREMENTS": "W  26cm D  23cm H  110cm",
+  "WEIGHT": "0.07m3",
+  "VOLUME": "5.9 kgs"
+ },
+ {
+  "ITEM": "Washing machine ",
+  "MEASUREMENTS": "W  54cm D  55cm H  80cm",
+  "WEIGHT": "0.24m3",
+  "VOLUME": "64.2 kgs"
+ },
+ {
+  "ITEM": "Weights Rack ",
+  "MEASUREMENTS": "W  110cm D  52cm H  75cm",
+  "WEIGHT": "0.43m3",
+  "VOLUME": "62.0 kgs"
+ },
+ {
+  "ITEM": "Welsh Dresser ",
+  "MEASUREMENTS": "W  46cm D  99cm H  195cm",
+  "WEIGHT": "0.90m3",
+  "VOLUME": "104.2 kgs"
+ },
+ {
+  "ITEM": "Wheel Barrow ",
+  "MEASUREMENTS": "W  102cm D  57cm H  39cm",
+  "WEIGHT": "0.23m3",
+  "VOLUME": "22.2 kgs"
+ }
+]
